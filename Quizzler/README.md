@@ -1,16 +1,16 @@
-# flutter_application_7
+# 🧠 Quizzler – Interactive Quiz Game  
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The **Quizzler App** marks a **significant leap** in my Flutter learning journey, as it introduced the concept of **state management** and **dynamic UI updates**. This app provides a fun, interactive quiz experience where users answer true/false questions, and the UI reacts instantly to their responses.  
 
-A few resources to get you started if this is your first Flutter project:
+This project challenged me to think about **application state** and how to efficiently manage and update data-driven interfaces.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Key Learnings
+- Implemented **stateful widgets** to manage changing quiz data  
+- Used **custom Dart classes** to structure question and answer logic  
+- Designed a **dynamic UI** that updates based on user interactions  
+- Practiced **clean code organization** by separating logic from UI components  
+- Strengthened understanding of **control flow and conditional rendering** in Flutter  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The **Quizzler App** taught me how to build **data-driven, reactive interfaces**, a key skill for developing real-world interactive apps.  
