@@ -4,8 +4,6 @@ This repository contains apps I built while trying hands on development in cross
 
 <img width="1280" height="800" alt="Screenshot 2025-07-29 at 1 17 38 AM" src="https://github.com/user-attachments/assets/af8efc07-bc16-45e8-a720-44824cdf1835" />
 
-<img width="296" height="626" alt="Screenshot 2025-05-06 at 5 25 28 PM" src="https://github.com/user-attachments/assets/bdb42f1a-ef3a-4b19-8847-a126c7430a50" />
-
 ## Key Insights:
 - **Flutter Development:** Has multiple cross-platform apps using Flutter widgets (Stateless & Stateful), layouts, and navigation.
 - **Dart Programming:** Achieved proficiency in Dart with object-oriented programming, aync/await, and streams.
