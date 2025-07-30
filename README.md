@@ -1,4 +1,4 @@
-# Flutter Apps – Learning Journey
+# Flutter Apps – Cross Platform Systems' Learning Journey
 
 This repository contains apps I built while completing **Angela Yu's Flutter & Dart course on Udemy**.  
 
