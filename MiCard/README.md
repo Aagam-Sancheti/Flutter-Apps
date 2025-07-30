@@ -10,6 +10,6 @@ This project marks the starting point of exploring cross-platform UI design in F
 
 **Key Learnings:**      
 	•	Structuring layouts with Column and Row      
-	•	Using Cards and ListTiles for information presentation      			
-	•	Applying custom fonts, colors, and assets		      	
+	•	Using Cards and ListTiles for information presentation       
+	•	Applying custom fonts, colors, and assets     	      	
 	•	Building a clean and responsive UI     
