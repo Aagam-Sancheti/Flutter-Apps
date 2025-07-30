@@ -1,4 +1,4 @@
-# Flutter Apps – Cross Platform App Development Journey
+# Flutter Apps – Cross Platform App Development
 
 This repository contains apps I built while trying hands on development in cross platform flutter framework.
 
