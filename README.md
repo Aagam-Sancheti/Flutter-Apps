@@ -4,7 +4,7 @@ This repository contains apps I built while trying hands on development in cross
 
 ## Key Insights:
 - **Flutter Development:** Has multiple cross-platform apps using Flutter widgets (Stateless & Stateful), layouts, and navigation.
-- **Dart Programming:** Gained proficiency in Dart with object-oriented programming, async/await, and streams.
+- **Dart Programming:** Achieved proficiency in Dart with object-oriented programming, async/await, and streams.
 - **App Features:** Implemented interactive UI, managed state, integrated APIs, and used animations.
 - **Project Management:** Structured apps for scalability and practiced version control with Git/GitHub.
 
