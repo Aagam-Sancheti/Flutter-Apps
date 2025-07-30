@@ -1,6 +1,8 @@
 # 🧠 Quizzler – Interactive Quiz Game  
 
+<img width="1280" height="800" alt="Screenshot 2025-07-31 at 4 44 50 AM" src="https://github.com/user-attachments/assets/e376bd72-e852-47a9-a27c-7d07d452cb8d" />
 
+<img width="1280" height="800" alt="Screenshot 2025-07-31 at 4 44 58 AM" src="https://github.com/user-attachments/assets/7832f9f8-55de-449e-af65-655ecd9560ca" />
 
 The **Quizzler App** marks a **significant leap** in my Flutter learning journey, as it introduced the concept of **state management** and **dynamic UI updates**. This app provides a fun, interactive quiz experience where users answer true/false questions, and the UI reacts instantly to their responses.  
 
