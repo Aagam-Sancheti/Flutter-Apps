@@ -2,7 +2,7 @@
 
 The Dicee app is the second step in my Flutter learning journey, building upon the basics learned in MiCard and introducing **interactivity and state management.**
 
-<img width="299" height="627" alt="Screenshot 2025-05-06 at 5 38 16 PM" src="https://github.com/user-attachments/assets/241ceaa2-e162-4143-8180-d922a7ed979c" />
+<img width="299" height="627" alt="Screenshot 2025-05-06 at 5 38 16 PM" src="https://github.com/user-attachments/assets/241ceaa2-e162-4143-8180-d922a7ed979c" />    
 
 This project is a simple dice-rolling application where **tapping a button generates random dice faces, simulating a real dice roll.** It demonstrates how to handle user interactions, manage widget states, and dynamically update the UI based on app logic.
 
