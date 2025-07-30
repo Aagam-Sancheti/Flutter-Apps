@@ -1,16 +1,11 @@
-# flutter_application_3
+MiCard – My Digital Business Card
 
-A new Flutter project.
+This was one of the first apps built in my Flutter learning journey. MiCard is a simple yet elegant digital business card application designed using Flutter. It demonstrates the use of **basic Flutter widgets such as Column, Row, Card, ListTile, and CircleAvatar,** while focusing on layout structuring, custom styling, and widget composition.
 
-## Getting Started
+This project marks the starting point of exploring cross-platform UI design in Flutter, laying the groundwork for building more interactive and feature-rich applications in subsequent projects.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Learnings:
+	•	Structuring layouts with Column and Row
+	•	Using Cards and ListTiles for information presentation
+	•	Applying custom fonts, colors, and assets
+	•	Building a clean and responsive UI
