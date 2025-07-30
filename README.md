@@ -2,7 +2,7 @@
 
 This repository contains apps I built while trying hands on development in cross platform flutter framework.
 
-<img width="1280" height="800" alt="Screenshot 2025-07-29 at 1 17 38 AM" src="https://github.com/user-attachments/assets/af8efc07-bc16-45e8-a720-44824cdf1835" />
+<img width="1280" height="800" alt="Screenshot 2025-07-29 at 1 17 38 AM" src="https://github.com/user-attachments/assets/72b02067-4a7b-4180-8170-78483b05dac1" />
 
 ## Key Insights:
 - **Flutter Development:** Has multiple cross-platform apps using Flutter widgets (Stateless & Stateful), layouts, and navigation.
