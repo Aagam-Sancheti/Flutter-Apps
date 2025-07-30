@@ -19,4 +19,4 @@ This repository contains apps I built while completing **Angela Yu's Flutter & D
 ## Tech Stack:
 - **Languages:** Dart  
 - **Framework:** Flutter  
-- **Tools:** Android Studio, VS Code, Git/GitHub
+- **Tools:** Android Studio, VS Code-Insiders, Git/GitHub + Copilot
