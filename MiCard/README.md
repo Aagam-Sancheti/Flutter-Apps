@@ -8,7 +8,7 @@ It demonstrates the use of **basic Flutter widgets such as Column, Row, Card, Li
 
 This project marks the starting point of exploring cross-platform UI design in Flutter, laying the groundwork for building more interactive and feature-rich applications in subsequent projects.
 
-Key Learnings:
+**Key Learnings:**      
 	•	Structuring layouts with Column and Row
 	•	Using Cards and ListTiles for information presentation
 	•	Applying custom fonts, colors, and assets
