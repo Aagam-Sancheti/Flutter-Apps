@@ -1,9 +1,9 @@
-# Flutter Apps – Cross Platform Systems' Learning Journey
+# Flutter Apps – Cross Platform App Development Journey
 
-This repository contains apps I built while completing **Angela Yu's Flutter & Dart course on Udemy**.  
+This repository contains apps I built while trying hands on development in cross platform flutter framwork.
 
-## What I Learned:
-- **Flutter Development:** Built multiple cross-platform apps using Flutter widgets (Stateless & Stateful), layouts, and navigation.
+## Key Insights:
+- **Flutter Development:** Has multiple cross-platform apps using Flutter widgets (Stateless & Stateful), layouts, and navigation.
 - **Dart Programming:** Gained proficiency in Dart with object-oriented programming, async/await, and streams.
 - **App Features:** Implemented interactive UI, managed state, integrated APIs, and used animations.
 - **Project Management:** Structured apps for scalability and practiced version control with Git/GitHub.
